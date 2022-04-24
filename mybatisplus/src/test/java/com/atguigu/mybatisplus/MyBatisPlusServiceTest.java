@@ -36,4 +36,5 @@ public class MyBatisPlusServiceTest {
         boolean b = userService.saveBatch(list);
         System.out.println(b);
     }
+//    小小测试一波
 }
